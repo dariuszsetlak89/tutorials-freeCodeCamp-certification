@@ -12,3 +12,4 @@ Repository contains all projects I have made, going through all of the freeCodeC
 6.  Learn the CSS Box Model by Building a Rothko Painting (02.03.23): [fcc-my-rothko-painting](https://fcc-my-rothko-painting.netlify.app/)
 7.  Learn CSS Flexbox by Building a Photo Gallery (03.03.23): [fcc-my-cat-photo-gallery](https://fcc-my-cat-photo-gallery.netlify.app/)
 8.  Learn Typography by Building a Nutrition Label (11.03.23): [fcc-my-nutrition-label](https://fcc-my-nutrition-label.netlify.app/)
+9.  Learn Accessibility by Building a Quiz (14.03.23): [fcc-my-accesibility-quiz](https://fcc-my-accessibility-quiz.netlify.app/)
