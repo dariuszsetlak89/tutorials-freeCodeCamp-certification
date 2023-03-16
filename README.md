@@ -1,4 +1,4 @@
-# Tutorials - freeCodeCamp Certification Courses
+# Tutorials - freeCodeCamp Certification
 
 Repository contains all projects I have made, going through all of the freeCodeCamp Certification Courses.
 
@@ -14,3 +14,4 @@ Repository contains all projects I have made, going through all of the freeCodeC
 8.  Learn Typography by Building a Nutrition Label (11.03.23): [fcc-my-nutrition-label](https://fcc-my-nutrition-label.netlify.app/)
 9.  Learn Accessibility by Building a Quiz (14.03.23): [fcc-my-accesibility-quiz](https://fcc-my-accessibility-quiz.netlify.app/)
 10. **Certification Project: Tribute Page (15.03.23)**: [fcc-project-my-tribute-page](https://fcc-project-my-tribute-page.netlify.app/)
+11. Learn About CSS Pseudo Selectors By Building A Balance Sheet (16.03.23): [fcc-my-balance-sheet](https://fcc-my-balance-sheet.netlify.app/)
